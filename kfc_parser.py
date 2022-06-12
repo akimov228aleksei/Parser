@@ -42,5 +42,3 @@ def kfc_parser():
         kfc.append(kfc_dict)
 
     return kfc
-# with open("data_file.json", "w", encoding='utf-8') as write_file:
-#     json.dump(kfc, write_file, ensure_ascii=False)
