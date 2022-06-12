@@ -1,1 +1,1 @@
-# Run the 'create json' file to run the project.
+# Run the `create_json.py` file to run the project.
